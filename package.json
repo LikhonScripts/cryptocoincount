@@ -126,6 +126,6 @@
     "extends": "react-app"
   },
   "engines": {
-    "node": "8.2.1"
+    "node": "18x"
   }
 }
